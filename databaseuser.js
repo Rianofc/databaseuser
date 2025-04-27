@@ -54,5 +54,9 @@
   {
     "username": "Nulli",
     "password": "Nulli99"
+  },
+  {
+    "username": "dark",
+    "password": "dark"
   }
 ]
