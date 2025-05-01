@@ -66,5 +66,9 @@
   {
     "username": "san",
     "password": "1122"
+  },
+  {
+    "username": "ale",
+    "password": "21"
   }
 ]
