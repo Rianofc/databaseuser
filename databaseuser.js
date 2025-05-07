@@ -82,5 +82,9 @@
   {
     "username": "ryu",
     "password": "ryu"
+  },
+  {
+    "username": "ryuu",
+    "password": "ryuu"
   }
 ]
