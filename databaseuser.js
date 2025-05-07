@@ -78,5 +78,9 @@
   {
     "username": "hanzo",
     "password": "hanzo001"
+  },
+  {
+    "username": "ryu",
+    "password": "ryu"
   }
 ]
