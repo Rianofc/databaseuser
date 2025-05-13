@@ -106,5 +106,9 @@
   {
     "username": "rayzel",
     "password": "ray123"
+  },
+  {
+    "username": "dzikri",
+    "password": "1"
   }
 ]
