@@ -114,5 +114,9 @@
   {
     "username": "dzikri1",
     "password": "1"
+  },
+  {
+    "username": "rqyzel",
+    "password": "rqyzel123"
   }
 ]
